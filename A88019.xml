@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent to George Wither, poetica licentia Esquire, by a plain dealing friend of his to prevent his future pseudography.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88019</idno>
+            <idno type="STC">Wing L1617</idno>
+            <idno type="STC">Thomason E365_24</idno>
+            <idno type="STC">ESTC R38553</idno>
+            <idno type="EEBO-CITATION">99872515</idno>
+            <idno type="PROQUEST">99872515</idno>
+            <idno type="VID">160077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160077)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E365[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent to George Wither, poetica licentia Esquire, by a plain dealing friend of his to prevent his future pseudography.</title>
+                  <author>Alethegraphus.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Benevol. Typographus, sometimes printer to the said Master Wither. Published for the better information of such who by his perpetuall scribling have been screwed into an opinion of his worth, and good affection to the publick. And are to be sold by the cryers of new, new, new, and true newes in all the streets of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Alethegraphus.</note>
+                  <note>Annotation on Thomason copy: "Dec: 14th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wither, George, 1588-1667.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:160077:1" rendition="simple:additions"/>
+            <head>A LETTER Sent to <hi>George Wither, Poetica licentia</hi> Eſquire, by a plain dealing friend of his to prevent his future Pſeudography. Printed By <hi>Benevol. Typographus,</hi> ſometimes Printer to the ſaid Maſter <hi>Wither.</hi> Publiſhed For the better information of ſuch who by his perpetuall ſcribling have been ſcrewed into an opinion of his worth, and good affection to the publick. And are to be ſold By the Cryers of new, new, new, and true newes in all the ſtreets of <hi>London.</hi> 1646.</head>
+            <opener>
+               <salute>Old acquaintance.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>OR ſo give me leave to tearme you, having not been till of late, much eſtranged from you ſince you lived in the Biſhoprick of <hi>Durham,</hi> when ſhe lived there alſo which now is your wife, but then wife to a poore man in <hi>London,</hi> who by report periſhed for want of bread.</p>
+            <p>Having peruſed divers of your ſcandalous Pamphlets, and Satyricall times which I find moſt ridiculous, vaingloriouſly applauding your own valour, good affection, and merit, and injuriouſly aſperſing di<g ref="char:EOLhyphen"/>vers noble Gentlemen of known integrity and fidelity, nay abuſing many famous and truſty worthy Members of this ever to be honoured Parliament, I thought fit to preſent you with theſe lines, (if poſſible) to prevent your future Scribling, and being ſtigmatized, at leaſt with the name of lying and Scandalizing, Bard.</p>
+            <p>It hath been a maxime that whoſoever chanted his own praiſes was
+<pb n="2" facs="tcp:160077:2"/>was a fool, though deſerved, what then muſt he be that exalteth him<g ref="char:EOLhyphen"/>ſelf ſo much (as you do) without any merit? As for the unparaleld valour heroick Acts, and martiall atchievements, you ſeem to chal<g ref="char:EOLhyphen"/>lenge to your ſelf, (in your book entituled <hi>Campo Muſa</hi>) all men that know you conceive your braines are infatuated with hopes of being thereby made Governour of ſome Caſtle in the ayre, or elſe you would have declared ſo much at <hi>Barmodus,</hi> or ſome place, where every man that knew you did not know the contrary, but if you are ſo bewitch<g ref="char:EOLhyphen"/>ed as to conceive you have valour, or have done any thing in Armes worthy of a Lawrell Crown, I ſhall endeavour to liberate you from thoſe char<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es by declaring truly how you were admitted unto Arms and how you uſed them during your ſhort continuance in them.</p>
+            <p>You cannot but remember that when theſe unhappy diſtractions did firſt commence, the King had diſerted the Parliament, and the ſword began to be unſheathed, that you having no land of your own, lived a poore Tenant to certaine Lands at <hi>Wanborough</hi> in <hi>Surrey,</hi> when in my op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nion your Ruſſet coat did better ſuit your condition and quali<g ref="char:EOLhyphen"/>ty then the Scarlet, Pluſh, and Velvet, you are now by the fortune of the Warres leaped into.</p>
+            <p>At that time there being a Troop of Horſe raiſed in that County for the ſervice of the Parliament, the truly worthy Gentlemen intruſted by the Parlia with that county (whom I may truly call the preſervers &amp; deliverers of their country) for had it not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for their perilous un<g ref="char:EOLhyphen"/>dertakings, and moſt indefatigable endeavours, that County had been made long ere this the Subject of the Enemies fury, and utterly ruined by plunder, fire and ſword, as to their eternall honour, all the honeſt inhabitants will acknowledge.</p>
+            <p>Theſe Worthies I ſay eſteeming by an outward appearance to have a good affection to the Cauſe they ſo faithfully proſecuted, did (con<g ref="char:EOLhyphen"/>trary to the motion of many well affected, honeſt and Religious men who had more nearly ſcrutinized your actions, and made diſcovery of your ſelf ends) conferre the command of that Troop upon you.</p>
+            <p>Being thus mounted in Authority, the firſt martiall employment you were put upon, was to march into <hi>Kent,</hi> to ſecure the Malignants there from attempting any thing in prejudice of the State, which ſervice (to your eternall fame be it ſpoken) you performed with ſuch alacrity, that in ſhort time you ſecured moſt of their good Horſes, by ſeizing them
+<pb n="3" facs="tcp:160077:2"/>into your cuſtodie, and appropriating them unto your ſelf, ſo that your Farm at <hi>Wanborough</hi> was now well ſtocked with brave horſes, your Lady like Miſtris had a galla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t white Palfray to mount her ſelf on and a ſtately gelding for her man in a Livery to attend her, now the world began to mend with you in ſight.</p>
+            <p>Your ſecond Martiall employment was to keep <hi>Farnham</hi> Caſtle that the Enemy ſhould not poſſeſſe themſelves thereof, where immedi<g ref="char:EOLhyphen"/>ately you grew ſuch a Graduate in military affairs, that in your Pam<g ref="char:EOLhyphen"/>phlet entituled <hi>Se defendendo,</hi> you accuſe thoſe worthy Patriots before mentioned, that they neglected to ſupply you with neceſſaries for the making of Baricadoes, Paliſadoes, and other defences, but give me leave to digreſſe a little &amp; tel you a ſtory of a ſick man that ſent for a Phyſician, who coming to him, the ſick man asked him what his diſ<g ref="char:EOLhyphen"/>eaſe was, the Phyſician anſwered that it was <hi>Flatus Hypocondriacus</hi> that tormented him, afterwards ſome of the ſick mans friends coming to viſit him, asked him what was the cauſe of his malady, the ſick man not knowing his diſeaſe told them he was very ſick of a hard word; ſo you had borrowed ſome hard words as Paliſadoes and the reſt, out of ſome hiſtory of Warre, for at that time I am certain, you neither knew what they were nor the uſe of them, nay ſuch a novice were you in Armes that you ſcarce knew how to ſpanne a Piſtoll, or being ſpan<g ref="char:EOLhyphen"/>ned to fire him.</p>
+            <p>It was not long after when the King marching towards <hi>London,</hi> with His Army, you with your Troope were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Supreme Authority commanded to <hi>Kingſton</hi> upon <hi>Thames,</hi> and from thence the Kings Forces advancing as farre as <hi>Brainford,</hi> you were ordered to march by <hi>London</hi> to joyn with my Lord Generalls Forces at <hi>Turnham</hi> green, but <hi>hic dolor</hi> now were you to come near an Enemy. Oh what a hard matter it was to get you out of <hi>London,</hi> but being come thither what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n agonie were you in, ſome of your Souldiers ſuppoſed you were in the cold fit of a Feaver, others feared you were troubled with the paſſion of the heart: but the Enemy retreating to the other ſide of the <hi>Thames,</hi> did ſomething mitigate your paſſion, and reſtore you to your almoſt loſt ſences.</p>
+            <p>The next newes <hi>I</hi> heard of your Troop, was when Prince <hi>Rupert</hi> beat up their quarters at <hi>Crowell</hi> near <hi>Chinnar</hi> and did ſome hurt there<g ref="char:EOLhyphen"/>to, although the Souldiers made a reaſonable good eſcape; yet the
+<pb n="4" facs="tcp:160077:3"/>Generall Officers, demanding where the Captain was, and why he was not more carefull in keeping Scouts abroad, his Souldiers were in<g ref="char:EOLhyphen"/>forced to anſwer that they had not ſeen their Captain a long time, for indeed you had at that time ſecured your perſon for many moneths, ſometimes in <hi>Surrey,</hi> and ſometimes at the Queens Armes at <hi>Holborn</hi> bridge.</p>
+            <p>The next and laſt of your warlick imployments was to march with my Lord Generall to the relief of <hi>Gloceſter</hi> in which march were many remarkable paſſages; firſt to ſee how like a magnanimous and undanted <hi>Ach<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lles</hi> you marched every day in the head of your Troop, untill you approached ſomething near the Enemies quarters, but ah! then the old <hi>Tremor cordis,</hi> the old pannick feare began to ſeize you, then every object that your d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſight could reach was a Cavalier, then would you often put your forefinger to your thumb, and looking through perſpective wife, could you diſcern a tree at any diſtance, you apprehended it to be one of the Enemies Scouts, or if you diſcovered many buſhes together, you fancied them to be a Body of Horſe, and would not advance one foot, till having ſent out divers Scouts for diſ<g ref="char:EOLhyphen"/>covery, they upon return gave you aſſurance that they were not ene<g ref="char:EOLhyphen"/>mies then would you again begin to march, and your Souldiers to laugh, and ſcoffe at your cowardiſe. The Kings forces riſing from <hi>Glo<g ref="char:EOLhyphen"/>cester</hi> and the place ſufficiently relieved, both Armies endeavouring to gain advantage to give the other battell, you being thus daily ala<g ref="char:EOLhyphen"/>rum'd with terror, and ambuſcadoed wit frights, to prevent your own engagement, tamely delivered up your Commiſſion, yet durſt not go from the protection of the Army till you came nearer home; but by the way a skirmiſh happening at <hi>Aburn</hi> Chaſe, you poſled to a kinſ<g ref="char:EOLhyphen"/>womans houſe of yours not farre off, where by report you crept into a hogges-ſtye, and (the skirmiſh ended) to prevent future frights, ha<g ref="char:EOLhyphen"/>ſtily conveyed your ſelf to your Farm at <hi>Wanborough,</hi> where two dayes after, you heard the great Guns play, which was at the fight at <hi>New<g ref="char:EOLhyphen"/>bury,</hi> and (ſuppoſing it to be what indeed it was) told your wiſe that God had exceedingly bleſſed you, that you were not there, for had you been, you ſhould have been killed in regard your eye-ſight was ſo bad you ſhould not have known a friend from a ſoe, nor have been able to make an eſcape: and this is the ſummary of your Martiall Acts, and
+<pb n="5" facs="tcp:160077:3"/>which I hope will be able to diſpoſſeſſe you of that lying ſpirit which cauſeth you to perſwade the world that you have valour: as for the drawing and brandiſhing your ſword (you ſo often boaſt of) for the preſervation of the common liberties, and defence of the Parliaments I conceive it a great happineſſe to the State that you never drew it (in earneſt) for had you ſo done, perchance the Sunne beames might have reflected upon the faire gloſſe thereof, (having not been much worn in the rain to make it ruſtie) and cauſed ſuch glances into your eyes being ſomething purblind, that you would have ſuppoſed it to have been lightning, and immediately written a book thereof, and de<g ref="char:EOLhyphen"/>clared that the heavens did fight againſt you.</p>
+            <p>As for your good affection you ſo often reiterate, it hath not ap<g ref="char:EOLhyphen"/>peared by your warlike deportment, as the premiſſes may truly ſatis<g ref="char:EOLhyphen"/>fie you, nor by your free contribution on the Propoſitions, for that was very ſmall, and that onely to creep into the good opinion of thoſe in Authroity, thereby to gaine ſome place of benefit, as indeed you ob<g ref="char:EOLhyphen"/>teined, but perchance you may object, that your good affection may appeare by the adverſe parties plundering of you: this your loſſes you know to be your great gaine, although you are aſhamed to acknow<g ref="char:EOLhyphen"/>ledge it, which may ſeem a Paradox to others, who as yet cannot un<g ref="char:EOLhyphen"/>fold the riddle, but I can make it plainly appeare, for your loſſes (al<g ref="char:EOLhyphen"/>though you abuſed the Hnourable Houſe of Commons by making them believe that they amounted unto 2000 l.) did not extend to the value of 300 l. although you ſhould inventory horſe-collers and hog-yokes, for you had ſold moſt of your cattel, bullocks, hogs, and ſheeep, and received money for them, and loſt very little Corn, not above three or foure load, and that in the ſtraw, as appeares by the teſtimonie of divers of your honeſt neighbours given in by them to the Honou<g ref="char:EOLhyphen"/>rable Committee for the County of <hi>Surrey</hi> ſitting at <hi>Kingſton,</hi> and for this your ſmall loſſe, (conſidering the great you pretended) you gained from the (by you deceived) Parliament for reparation ma<g ref="char:EOLhyphen"/>ny great Sequeſtrations in <hi>Surrey, viz.</hi> of the goods and eſtate of Judge <hi>Foſter;</hi> Maſter <hi>Denham</hi> then high Sheriffe, Captain <hi>Andrewes,</hi> Cap<g ref="char:EOLhyphen"/>tain <hi>Hudſon,</hi> Captain <hi>Brodnix:</hi> and many others, which amounted to a very great ſumme, it is therefore evident, your gain far exceeded your loſſe, beſides you would have much added to your gain, at a place
+<pb n="6" facs="tcp:160077:4"/>near <hi>Egham</hi> in <hi>Surrey</hi> (I conceive by the new faſhioned trick called plunder (for I never heard of any authoritie you had for it) had you not been prevented by one Maſter <hi>Ayling,</hi> who with eight or tenne Muſquetiers ſeized your ſelf, and ſome of your Troop, and ſuppoſing you had by Legerdemain conveyed ſomething into your Boots, or ſleeves of your velvet Jacket, enforced your ſelf to pull off both, and your Troopers would not aſſiſt you, ſeeing your puſilanimity in ſub<g ref="char:EOLhyphen"/>jecting your ſelf to ſuch baſe termes.</p>
+            <p>In what elſe your good affection hath been expreſſed, is unknown to me, and I believe to all men, onely you might be conceived to be for the Parliament (did you not daily abuſe the Members thereof, becauſe not againſtit, if there be not a neutralitie in you.</p>
+            <p>As for your abuſes, injuries and Scandalls, I will be as brief as I may, and yet I ſhall be troubleſome unto you, Your injuries to particular and perſonated men, and eſpecially to Sir <hi>Rechard Oinſlow,</hi> who up<g ref="char:EOLhyphen"/>on ſtrict examination was found to be <hi>Juſticiarius, ex merito juſtifica<g ref="char:EOLhyphen"/>tus,</hi> you <hi>Stultus, ex debito condemnatus,</hi> have been already in part cenſured by the higheſt Court of Juſtice, although your ſubornation, &amp; conſpiracy be not as yet puniſhed, and if your baſeneſſe be not therein made apparant to you, and your Judgement rectified, I feare I ſhall in vain endeavour it.</p>
+            <p>Your aſperſions laid upon the Committee of examinations, (taxing them with injuſtice, and that they heard not cauſes with an equall ear) your own cauſe might cleare, and inforce you (had you but common reaſon) to acknowledge your error and give your ſelf the lie, for there was not one Article, that you were accuſed for in your ſcandalous Pamphlet intiruled <hi>Juſticiarius justificatus,</hi> but you were asked what you could ſay thereto, and what witneſſe you had thereof, and the an<g ref="char:EOLhyphen"/>ſwer you could make to all and every queſtion was, that you had no witneſſe, but that it ſeemed ſo to you to be: ought not this do you think to be by them voted injurious, that had no other circumſtantiall evidence or proof then your ſhallow, and malicious ſurmiſe, and the contrary of every ſcandall made apparant? Concerning the inſuffera<g ref="char:EOLhyphen"/>ble aſperſions by you laid upon divers Members of both Houſes of Parliament, by terming them rotten Members, Rebells, Traytors, Hy<g ref="char:EOLhyphen"/>pocrites, Knaves, Lyars, Swearers, Drunkards, Whoremaſters, with
+<pb n="7" facs="tcp:160077:4"/>much other very opprobrious language vomited forth in your Book en<g ref="char:EOLhyphen"/>tituled <hi>Opobalſomum Anglicanum,</hi> preſſed out of a ſhrub, but it may be more truly called <hi>Venenum Diabolicum,</hi> extracted from a malevolent braine, And therein expreſſe, that divers Members were choſen by in<g ref="char:EOLhyphen"/>direct means, as by employing friends, crouching to equalls, ſcraping acquaintance with ſtrangers, feaſting the Cobler and Smith, all which your ſelf did (onely conceive you had ſcarce a friend to employ) to gain you an election at <hi>Guildford</hi> in <hi>Surrey</hi> you neglected not Letters in Print, wonderfully declaring your own abilities, and diſparaging others you feaſted Tailors, Tapſters, and Hoſtlers, and upon the day of Election, earneſtly ſolicited <hi>George</hi> the Hoſtler, of the red <hi>Lion</hi> there to put on his beſt clothes to go to the <hi>Guild-hall</hi> of the town, to give his voice for you, whomaking a ſcruple thereof you deſpaird of your electi<g ref="char:EOLhyphen"/>on, took your horſe &amp; mmediatly rode out of town, as it was time to do for the Burgers of that Corporation being very well affected to the publick good, and dependent upon reaſon, had unanimouſly reſolved (<hi>nemine contradicente</hi>) and accordingly did elect a worthy Patriot of their countrey to be their Burgeſſe, but your hope is that no man being perſonated therein, you ſhall eſcape unpuniſhed, but I hope, as every Member ought to be immaculate, ſo to be jealous of their integrity and to wipe off that dirt you have thrown in their faces, will enforce you to declare, whom you intended thereby, that the guilty (if any) may be found out, (or if none) that you who ſeemingly dip your finger in the diſh with them, yet would trayterouſly foment a diviſion, may be brought to condigne puniſhment, and made exemplary to all knaves for the future.</p>
+            <p>The premiſſes taken into ſerious conſideration, and your excellent ſervice well weighed, the Parliament cannot but in juſtice reaſſume your Petition for arreares, and order the ſame to be immediately paid, and grant your late Petition for a place of 500 l. <hi>per annum.</hi>
+            </p>
+            <p>But the contemplation of your deſerts had almoſt made me forget a friendly advice, which is that you would no more compa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſelf to an Engliſh maſtiffe, f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r a maſtiffe hath his eares cropt, a collar a<g ref="char:EOLhyphen"/>bout his throat, his tail bob'd, and is chained up, eſpecially in the day time, it may be, let looſe in the night for the preſervation of his Ma<g ref="char:EOLhyphen"/>ſters
+<pb n="8" facs="tcp:160077:5"/>goods, and in ſtead thereof worrieth ſome harmleſſe, and innocent paſſenger, and ſo is hanged: I know I have been tedious &amp; troubleſome to you, yet much more might be ſpoken in the blazoning your ſelf and actions in their true and proper colours, but, <hi>Ne me Criſpini ſcrinia Lippicompilaſſe, putet.</hi> I ſhall conclude with a wiſh that my Letter may find its deſired effect, that you henceforth ſurceaſe from vilifying honeſt men, and deifying your ſelf, which will be no ſmall joy to</p>
+            <closer>
+               <signed>
+                  <hi>Your plain dealing friend</hi> Alethegraphus.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
